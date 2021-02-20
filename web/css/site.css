@@ -1,0 +1,8 @@
+html,
+body {
+    height: 100%;
+}
+
+.kv-editable-popover.skip-export.popover.popover-default.is-bs4.popover-x.has-footer {
+    display: none;
+}
